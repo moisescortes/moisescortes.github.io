@@ -15,7 +15,7 @@ Soy estudiante de Ingenieria en Sistemas Computacionales con conocimiento en Bac
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| [🔗 Encuentra Sonrisas] | Marketplace/LinkedIn para colaboradores del Banco de Empleados de Guadalajara | React, Node.js, Firebase |
+| [🔗 Encuentra Sonrisas (https://github.com/moisescortes/Proyecto_Ciberseguridad.git)] | Marketplace/LinkedIn para colaboradores del Banco de Empleados de Guadalajara | React, Node.js, Firebase |
 | [🔗 ORACLE Chatbot] | Chatbot de Telegram para los empleados de ORACLE mejorando la productividad de los equipos | Java, JavaScript, ORACLE SQL Developer,  |
 
 ## 🧠 Habilidades
